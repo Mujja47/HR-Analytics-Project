@@ -66,4 +66,4 @@ Sales Representative: #CC99FF
 
 Donut chart, bar chart, treemap, matrix, Area chart, stacked bar chart, cards, and slicers
 
-![image](https://github.com/user-attachments/assets/d62a8074-0e10-4291-a430-27deb313494e)
+![Mujahid_PBI_HR_Analytics](https://github.com/user-attachments/assets/b7e252d9-f655-405e-bc6b-3b5672ff52ea)
